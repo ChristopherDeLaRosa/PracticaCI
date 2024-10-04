@@ -2,7 +2,7 @@
   "name": "hola-mundo-electiva",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "hola-mundo.js",
   "scripts": {
     "test": "jest"
   },
